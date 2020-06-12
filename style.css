@@ -1,0 +1,61 @@
+body {
+	background: white;
+}
+
+.profile-pic{
+	border-radius: 50%;
+	object-fit: cover;
+}
+
+a{
+	 text-decoration: none;
+}
+
+.upwork-link{
+ 	color: green;
+}
+
+.skills ul{
+	list-style-type: none;
+}
+
+input[type=submit]{
+	background-color: green;
+	color: white;
+	width: 200px;
+	height: 50px;
+	-webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+    border-radius: 10px;
+}
+
+form{
+	text-align: center;
+}
+
+.name{
+	display: inline-block;
+	color: green;
+}
+
+body{
+	padding: 0 40px;
+	font-family: Roboto, serif;
+}
+
+.link{
+	color:green;
+}
+
+table, th, td {
+	border: 2px solid green;
+	border-collapse: collapse;
+	padding: 8px;
+	text-align: left;
+}
+
+.reviews{
+	width: 100%;
+}
